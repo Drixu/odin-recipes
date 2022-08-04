@@ -1,0 +1,23 @@
+
+.description {
+    color: lightblue;
+}
+.ingredeints {
+    color: lightpink;
+}
+p {
+    color: lime;
+}
+h1,
+h3,
+p,
+.steps,
+.ingredeints {
+    text-align: center;
+    
+}
+.steps{ 
+color: white;
+background-color: black;
+
+}
